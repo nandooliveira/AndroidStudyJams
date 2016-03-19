@@ -7,8 +7,10 @@
 - Exceeds Specifications
 
 ___
+
 * [Nathalia Lima](#nathalia-lima-grammarrules)
 * [Pedro Araújo](#pedro-araujo-musicpedro)
+
 ___
 
 #### Nathalia Lima [GrammarRules](https://github.com/nathalialima/GrammarRules.git)
@@ -31,7 +33,7 @@ ___
 | O código está formatado corretamente? | Meets Specifications |
 
 ___
-**Pedro Araújo [MusicPedro](https://github.com/pedroaraujo20/MusicPedro)**
+#### Pedro Araújo [MusicPedro](https://github.com/pedroaraujo20/MusicPedro)
 
 | Critério                                                                              | Avaliação                   |
 |---------------------------------------------------------------------------------------|-----------------------------|
