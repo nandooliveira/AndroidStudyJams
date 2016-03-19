@@ -9,7 +9,7 @@
 ___
 
 * [Nathalia Lima](#nathalia-lima-grammarrules)
-* [Pedro Araújo](#pedro-araujo-musicpedro)
+* [Pedro Araújo](#pedro-araújo-musicpedro)
 
 ___
 
