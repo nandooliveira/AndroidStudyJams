@@ -7,9 +7,10 @@
 - Exceeds Specifications
 
 ___
-* [Nathalia Lima [GrammarRules](https://github.com/nathalialima/GrammarRules.git)](#nathalia-lima-grammarrules)
-* [Pedro Araújo [MusicPedro](https://github.com/pedroaraujo20/MusicPedro)](#pedro-araujo-musicpedro)
+* [Nathalia Lima](#nathalia-lima-grammarrules)
+* [Pedro Araújo](#pedro-araujo-musicpedro)
 ___
+
 #### Nathalia Lima [GrammarRules](https://github.com/nathalialima/GrammarRules.git)
 
 | Critério                                                                              | Avaliação                   |
