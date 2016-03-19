@@ -12,7 +12,7 @@ ___
 * [Mauricio Torres](#mauricio-torres-loltierlist)
 * [Nathalia Lima](#nathalia-lima-grammarrules)
 * [Pedro Araújo](#pedro-araújo-musicpedro)
-
+* [Rodolfo Alves](#rodolfo-alves-vidaleveapp)
 
 ___
 #### Iure Barrel [CsGoMaps](https://github.com/iuribarrel/CsGoMaps.git)
@@ -93,5 +93,25 @@ ___
 | Os métodos são utilizados apropriadamente? | Atende a Especificação | OK |
 | A instrução if/else é utilizada no projeto? | Atende a Especificação | OK |
 | Comentários são utilizados efetivamente para explicar diferentes partes do código? | Não Atende a Especificação |  |
+| O nomes de variáveis, métodos e ids de recursos são descritivas? | Atende a Especificação | OK |
+| O código está formatado corretamente? | Atende a Especificação | OK |
+
+___
+#### Rodolfo Alves [VidaLeveAPP](https://github.com/rodolfoalvesmdo/vida-leve-app.git)
+
+| Critério                                                                              | Avaliação                   | Status |
+|---------------------------------------------------------------------------------------|-----------------------------|--------|
+| O documento com a ideia do projeto define a ideia para o aplicativo final claramente? | Excede a Especificação | OK |
+| A submissão do projeto inclui imagens do design da aplicação?                         | Atende a Especificação | OK |
+| O projeto possui um arquivo README completo, claro, e que provê as instruções necessárias para a execução do aplicativo?| Excede a Especificação | OK |
+| O código implementa completamente e satisfatoriamente a idéia definida no documento que explicíta a documentação do projeto? | Atende a Especificação | OK |
+| O aplicativo executa sem erros? | Atende a Especificação | OK |
+| O código possui as Views e ViewGroups necessárias? | Atende a Especificação | OK |
+| O projeto segue as melhores práticas para construção de interface? | Atende a Especificação | OK |
+| O aplicativo é interativo? | Atende a Especificação | OK |
+| O aplicativo demonstra apropriadamente o uso de variáveis? | Atende a Especificação | OK |
+| Os métodos são utilizados apropriadamente? | Atende a Especificação | OK |
+| A instrução if/else é utilizada no projeto? | Não Atende a Especificação | |
+| Comentários são utilizados efetivamente para explicar diferentes partes do código? | Atende a Especificação | OK |
 | O nomes de variáveis, métodos e ids de recursos são descritivas? | Atende a Especificação | OK |
 | O código está formatado corretamente? | Atende a Especificação | OK |
