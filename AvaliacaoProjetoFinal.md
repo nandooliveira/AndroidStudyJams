@@ -6,9 +6,8 @@
 - Meets Specifications
 - Exceeds Specifications
 
-
-**Nathalia Lima [GrammarRules](https://github.com/nathalialima/GrammarRules.git)**
 ___
+**Nathalia Lima [GrammarRules](https://github.com/nathalialima/GrammarRules.git)**
 
 | Critério                                                                              | Avaliação                   |
 |---------------------------------------------------------------------------------------|-----------------------------|
@@ -27,9 +26,8 @@ ___
 | O nomes de variáveis, métodos e ids de recursos são descritivas? | Meets Specifications |
 | O código está formatado corretamente? | Meets Specifications |
 
-
-**Pedro Araújo [MusicPedro](https://github.com/pedroaraujo20/MusicPedro)**
 ___
+**Pedro Araújo [MusicPedro](https://github.com/pedroaraujo20/MusicPedro)**
 
 | Critério                                                                              | Avaliação                   |
 |---------------------------------------------------------------------------------------|-----------------------------|
