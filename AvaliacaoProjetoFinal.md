@@ -83,7 +83,7 @@ ___
 
 
 ___
-#### Khwesten Heiner [Quiz](https://github.com/Khwesten/agenda)
+#### Khwesten Heiner [Agenda](https://github.com/Khwesten/agenda)
 
 | Critério                                                                              | Avaliação                   | Status |
 |---------------------------------------------------------------------------------------|-----------------------------|--------|
