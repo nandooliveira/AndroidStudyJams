@@ -84,7 +84,7 @@ ___
 |---------------------------------------------------------------------------------------|-----------------------------|--------|
 | O documento com a ideia do projeto define a ideia para o aplicativo final claramente? | Excede a Especificação | OK |
 | A submissão do projeto inclui imagens do design da aplicação?                         | Atende a Especificação | OK |
-| O projeto possui um arquivo README completo, claro, e que provê as instruções necessárias para a execução do aplicativo?| Não Atende a Especificação |  |
+| O projeto possui um arquivo README completo, claro, e que provê as instruções necessárias para a execução do aplicativo?| Atende a Especificação | OK |
 | O código implementa completamente e satisfatoriamente a idéia definida no documento que explicíta a documentação do projeto? | Atende a Especificação | OK |
 | O aplicativo executa sem erros? | Atende a Especificação | OK |
 | O código possui as Views e ViewGroups necessárias? | Atende a Especificação | OK |
