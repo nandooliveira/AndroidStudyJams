@@ -11,7 +11,7 @@ ___
 * [Diogo Cipriano](#diogo-cipriano-estudefora)
 * [Emerson Gama](#emerson-gama-learnmath)
 * [Iure Barrel](#iure-barrel-csgomaps)
-* [Khwesten Heiner](#khwesten-heiner-agenda)
+* [Khwesten Heiner](#khwesten-heiner-literatureknowledge)
 * [Mauricio Torres](#mauricio-torres-loltierlist)
 * [Nathalia Lima](#nathalia-lima-grammarrules)
 * [Pedro Araújo](#pedro-araújo-musicpedro)
@@ -83,7 +83,7 @@ ___
 
 
 ___
-#### Khwesten Heiner [Agenda](https://github.com/Khwesten/agenda)
+#### Khwesten Heiner [LiteratureKnowledge](https://github.com/Khwesten/agenda)
 
 | Critério                                                                              | Avaliação                   | Status |
 |---------------------------------------------------------------------------------------|-----------------------------|--------|
@@ -93,7 +93,7 @@ ___
 | O código implementa completamente e satisfatoriamente a idéia definida no documento que explicíta a documentação do projeto? | Atende a Especificação | OK |
 | O aplicativo executa sem erros? | Atende a Especificação | OK |
 | O código possui as Views e ViewGroups necessárias? | Atende a Especificação | OK |
-| O projeto segue as melhores práticas para construção de interface? | Não Atende a Especificação |  |
+| O projeto segue as melhores práticas para construção de interface? | Atende a Especificação | OK |
 | O aplicativo é interativo? | Atende a Especificação | OK |
 | O aplicativo demonstra apropriadamente o uso de variáveis? | Atende a Especificação | OK |
 | Os métodos são utilizados apropriadamente? | Atende a Especificação | OK |
