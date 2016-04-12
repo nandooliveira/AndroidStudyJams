@@ -1,4 +1,4 @@
-Lista de Aprovados Android Study Jams - CESMAC LAB 2
+Lista de Aprovados Android Study Jams - CESMAC LAB 1
 ===
 
 | PARTICIPANTE | EMAIL | PROJETO |
